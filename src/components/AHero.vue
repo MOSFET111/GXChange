@@ -6,7 +6,7 @@
         Our Createor
     </h1>
 
-    <p class="text-4xl absolute top-1/2 right-10 transform -translate-y-1/2 pr-8 h-30 vertical-text">
+    <p class="text-4xl absolute top-1/2 right-10 transform -translate-y-1/2 pr-8 h-30 www vertical-text">
         Mostafa Hassan (MOSFET)
     </p>
 
@@ -15,7 +15,7 @@
          <span class="text-green-400">Gaming</span> </p>
     
     <div class="flex flex-row">
-        <h1 class="text-6xl sm:text-5xl pl-7 vertical-textl max-[501px]:text-5xl text-green-500 pb-5  mt-[30rem]">
+        <h1 class=" sm:text-8xl text-6xl md:right-15 sm:text-5xl pl-7 vertical-textl text-green-500 pb-5  mt-[30rem] max-[640px]:left-15 max-[769px]:pt-60">
             Our Philosphy
         </h1>
     
@@ -34,11 +34,11 @@
     </li>
     <li class="flex flex-row">
         <p class="text-2xl">BackEnd: &nbsp;</p>
-        <p class="text-2xl"><span class="text-green-400">Ereeny Nabil</span></p>
+        <p class="text-2xl"><span class="text-green-400">Ereeny Nabil</span> (MOSFET)</p>
     </li>
     <li class="flex flex-row">
         <p class="text-2xl">Staff: &nbsp;</p>
-        <p class="text-2xl"><span class="text-green-400">Mahmoud Mohamed</span></p>
+        <p class="text-2xl"><span class="text-green-400">Mahmoud Mohamed</span> (MOSFET)</p>
     </li>
     <li class="flex flex-row">
         <p class="text-2xl">Staff: &nbsp;</p>
@@ -46,7 +46,7 @@
     </li>
     <li class="flex flex-row">
         <p class="text-2xl">Staff: &nbsp;</p>
-        <p class="text-2xl"><span class="text-green-400">Karim Yasser</span></p>
+        <p class="text-2xl"><span class="text-green-400">Karim Yasser</span> (MOSFET)</p>
     </li>
 </ul>
 
@@ -74,5 +74,7 @@ p,h1{
 .flex{
     margin-top: 3rem;
 }
-
+.www{
+    margin-top: -15rem;
+}
 </style>
