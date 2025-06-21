@@ -29,16 +29,12 @@
         Our Team
     </h1>
     <li class="flex flex-row">
-        <p class="text-3xl">Team Leader, FrontEnd: &nbsp;</p>
+        <p class="text-3xl">Team Leader, FullStack: &nbsp;</p>
         <p class="text-3xl"><span class="text-green-400">Mostafa Hassan</span> (MOSFET)</p>
     </li>
     <li class="flex flex-row">
-        <p class="text-2xl">BackEnd: &nbsp;</p>
-        <p class="text-2xl"><span class="text-green-400">Ereeny Nabil</span> (MOSFET)</p>
-    </li>
-    <li class="flex flex-row">
         <p class="text-2xl">Staff: &nbsp;</p>
-        <p class="text-2xl"><span class="text-green-400">Mahmoud Mohamed</span> (MOSFET)</p>
+        <p class="text-2xl"><span class="text-green-400">Mahmoud Mohamed</span> </p>
     </li>
     <li class="flex flex-row">
         <p class="text-2xl">Staff: &nbsp;</p>
@@ -46,7 +42,7 @@
     </li>
     <li class="flex flex-row">
         <p class="text-2xl">Staff: &nbsp;</p>
-        <p class="text-2xl"><span class="text-green-400">Karim Yasser</span> (MOSFET)</p>
+        <p class="text-2xl"><span class="text-green-400">Karim Yasser</span></p>
     </li>
 </ul>
 
